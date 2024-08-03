@@ -9,7 +9,7 @@ function App() {
       <div className="about-page">
         <h1 className="page-title">About Page</h1>
         
-        <p className="site-descriptin">
+        <p className="site-description">
           Hey guys welcome to this goofy ahh website I mean gahdamn
         </p>
 
